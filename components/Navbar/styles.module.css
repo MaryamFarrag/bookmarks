@@ -1,0 +1,15 @@
+.nav{
+    background-color: var(--bg-color);
+    color:var(--font-color);
+    text-align: center;
+    padding: 2rem;
+    gap: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.nav a{
+    transition: all .3s ease-in-out;
+    &:hover{
+        color: var(--hovered-font);
+    }
+}

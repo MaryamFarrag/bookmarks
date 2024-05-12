@@ -1,0 +1,7 @@
+.search input{
+    border:unset;
+    padding: 1rem;
+    background-color: var(--secondary-bg);
+    width: max(80vw,260px);
+    margin-bottom: 2rem;
+}
