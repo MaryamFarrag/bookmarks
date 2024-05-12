@@ -1,3 +1,4 @@
+'use client'
 import { useState, useEffect } from 'react';
 import { RepoCardProps } from './interface'
 import styles from './styles.module.css'

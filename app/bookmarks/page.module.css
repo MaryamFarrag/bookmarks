@@ -4,12 +4,3 @@
 .bookmark h1{
     margin-block: 2rem;
 }
-.cardList {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    margin-inline: auto;
-    margin-bottom: 2rem;
-    max-width: max(85vw,270px);
-}
-  
