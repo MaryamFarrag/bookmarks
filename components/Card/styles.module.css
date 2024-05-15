@@ -2,7 +2,7 @@
     padding: 1rem;
     border-radius: 4px;
     background-color: var(--bg-color);
-    flex:0 1 calc(20% - 1rem);
+    flex:0 1 max(calc(20% - 1rem),270px);
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     display: flex;
     flex-direction: column;

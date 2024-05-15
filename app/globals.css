@@ -9,6 +9,9 @@
   --hovered-font:#007bff;
   --bg-color:#f1f1f1;
   --secondary-bg:#dfd8d8;
+  @media screen and (max-width:600px) {
+    font-size: 12px;
+  }
 }
 
 
